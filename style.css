@@ -1,0 +1,89 @@
+body {
+    background: #2C2B3D;
+    color: white;
+}
+
+div {
+    margin: auto;
+    width: 1083px;
+    margin: 71px 98px 23px 98px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1083px;
+    height: 30px;
+    margin-bottom: 101px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:hover {
+    color: #00BFA6;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 157px;
+}
+
+main section {
+    text-align: center;
+    width: 614px;
+}
+
+main section h1 {
+    margin-bottom: 59px;
+    font-size: 36px;
+    line-height: 40px;
+    font-family: 'JetBrains Mono';
+}
+
+main section p {
+    font-size: 16px;
+    line-height: 28px;
+    color: #C2C2C2;
+    font-family: 'Open Sans';
+    width: 604px;
+}
+
+span {
+    color: #00BFA6;
+}
+
+footer .line {
+    display: block; /* Técnica para centralizar a imagem (Linha). display: block; + margin: auto; */
+    margin: auto;
+}
+
+footer p {
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    margin-top: 27px;
+}
+
+.padlock {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+}
