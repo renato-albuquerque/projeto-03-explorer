@@ -6,7 +6,7 @@ body {
 div {
     margin: auto;
     width: 1083px;
-    margin: 71px 98px 23px 98px;
+    margin: 71px 98px 23px 98px;    /* top | right | bottom | left */
 }
 
 header nav {
@@ -70,7 +70,7 @@ span {
 }
 
 footer .line {
-    display: block; /* Técnica para centralizar a imagem (Linha). display: block; + margin: auto; */
+    display: block; /* Technique to center the image (Line). */
     margin: auto;
 }
 
