@@ -1,17 +1,20 @@
-# Projeto 03 - Programa Explorer, Turma 06, Rocketseat
+# Project 03 - Rocketseat, Explorer Program, Class 06. 
 
 ![screenshot](images/screenshot.png)
 
-Projeto desenvolvido durante o Stage 02 do Programa Explorer, em Out/22.
+Project developed during the Stage 02 of Explorer Program, in Oct/22.
 
-🔗 [Clique aqui para acessar](https://renato-albuquerque.github.io/projeto-03-explorer/)
+🔗 [Click here to access](https://renato-albuquerque.github.io/projeto-03-explorer/)
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
-## Contato
+## Contact
 
 🔗 [Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
+🔗 [Business Card](https://rma-contacts.vercel.app/)
+🔗 [Portfolio](https://portfolio-renatoalbuquerque.vercel.app/)
+🔗 [Discord](https://discordapp.com/users/992621595547938837)
